@@ -1,0 +1,33 @@
+
+h1 {
+    color:#000000
+}
+h2,p{
+text-align: center;
+background-color: #893e01;
+color: #89ff31
+}
+*{
+    border: solid;
+}
+.header{
+    background-color:green;
+    display: flex;
+    justify-content: space-between;
+
+}
+.grid{
+    background-color: #efc9f2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: #2345a9;
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: #808080;
+}
+
